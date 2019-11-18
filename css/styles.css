@@ -425,7 +425,7 @@ footer a:hover {
 /* Team styles */
 
 #team_sec1 {
-	background-image: url('../images/7thSense.png');
+	background-image: url('../images/bg4.png');
 	background-size: cover;
 	background-position: center;
 	padding: 100px;
@@ -463,10 +463,6 @@ footer a:hover {
 	padding-top: 10px;
 }
 
-/*#team_sec2 .row:nth-child(2) {*/
-	/*margin: 30px 0;*/
-/*}*/
-
 .team_img {
 	height: 200px;
 	width: 200px;
@@ -474,35 +470,6 @@ footer a:hover {
 	margin: 25px auto;
 	background-position: center;
 	background-size: cover;
-}
-
-#pat {
-	background-image: url('../images/pat.png');
-}
-
-#matt {
-	background-image: url('../images/matt.png');
-}
-
-#hansen {
-	background-image: url('../images/hansen.png');
-}
-
-#thomas {
-	background-image: url('../images/thomas.png');
-}
-
-.tom {
-	font-size: 30px;
-	margin-top: 15px;
-}
-
-#nick {
-	background-image: url('../images/nick.png');
-}
-
-#georgia {
-	background-image: url('../images/georgia.png');
 }
 
 /* Services styles */
